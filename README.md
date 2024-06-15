@@ -1,2 +1,3 @@
-# RSS-FEED
-RSS Feed Server This repository contains a simple RSS feed server built using Node.js and Express. The server fetches and parses RSS feeds using the rss-parser package and provides a RESTful API endpoint to serve the parsed feed items. The frontend is developed using React to display the fetched RSS feed items dynamically. 
+
+
+This project integrates a React front-end styled with Tailwind CSS to create a visually appealing and responsive interface for displaying RSS feeds. The server-side utilizes Node.js and Express to fetch, parse, and serve RSS data via a RESTful API. Users can easily access and view RSS content, leveraging modern web technologies for efficient content management and user engagement.
